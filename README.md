@@ -1,5 +1,5 @@
 # Releases
-##Server Changelogs
+## Server Changelogs
 ### 1: Beta
 > Server still in beta
 ### 2: Maintenance
