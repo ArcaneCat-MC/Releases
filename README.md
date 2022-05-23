@@ -1,4 +1,6 @@
 # Releases
-Server Changelogs
-1. Server still in beta
-2. Server needs to be whitelisted due to crashing/too many Skript Variables (Maintenance)
+##Server Changelogs
+### 1: Beta
+> Server still in beta
+### 2: Maintenance
+> Server needs to be whitelisted due to crashing Caused by too many skript variables
