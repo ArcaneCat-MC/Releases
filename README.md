@@ -1,3 +1,6 @@
+# Issues & Bugs
+> https://github.com/ArcaneCat-MC/Releases/issues
+
 # Releases
 ## Server Changelogs
 ### 1: Beta
